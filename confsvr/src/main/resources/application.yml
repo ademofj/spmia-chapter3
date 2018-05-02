@@ -20,8 +20,8 @@ spring:
         git:
           uri: https://github.com/ademo/config-repo/
           searchPaths: licensingservice,organizationservice
-          username: native-cloud-apps
-          password: 0ffended
+          username: ademofj
+          password: zaq12wsx
 
 
 ####
